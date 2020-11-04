@@ -1,2 +1,3 @@
 # hello-world
-Place to store my ideas &amp; resources
+
+Just trying to figure out how GitHub works.
